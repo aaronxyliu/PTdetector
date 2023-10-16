@@ -4,7 +4,7 @@
 
 #### What is this?
 
-PTdetector is a Chrome extension which can detect all JavaScript libraries runs behind the web. LibDetector collects over 4,000 libraries information from [cdnjs](https://cdnjs.com/). The library detection ability has academic research support.
+PTdetector is a Chrome extension which can detect all JavaScript libraries runs behind the web. LibDetector collects over 4,000 libraries information from [cdnjs](https://cdnjs.com/). The library detection ability has academic research support. More information please refer to the ASE 2023 paper [PTdetector: An Automated JavaScript Front-end Library Detector](https://www.researchgate.net/publication/373638073_PTDETECTOR_An_Automated_JavaScript_Front-end_Library_Detector).
 
 #### How to use?
 
